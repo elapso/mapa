@@ -13,6 +13,5 @@ html page with map by django
 by unicorn
 gunicorn --bind 127.0.0.1:3333 bob_map.wsgi
 
-#wsgi setup links
-  1. https://simpleit.rocks/python/django/set-up-ubuntu-to-serve-a-django-website-step-by-step/
-  2. 
+# web server setup
+rewd wiki
